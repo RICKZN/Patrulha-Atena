@@ -21,17 +21,17 @@
       <div class="sidebar-header">
 
         <img
-          src="/ifba-logo.png"
-          class="ifba-logo-img"
-          alt="Instituto Federal Bahia"
+          src="/atena.png"
+          class="atena-logo-img"
+          alt="Patrula Atena"
         />
 
         <div class="logo">
-          SISTEMA<span>IF</span>
+          SISTEMA<span>Maria da Penha</span>
         </div>
 
         <div class="logo-version">
-          v3.5 · Controle Alimentar
+          v3.5 · Ronda Maria da Penha
         </div>
 
       </div>
